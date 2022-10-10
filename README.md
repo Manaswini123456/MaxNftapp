@@ -86,3 +86,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+### link of design 
+
+```
+https://www.figma.com/file/iVAZzt8XAGvoGQWEhmEI7n/NFT-Marketplace-Landing-Page?node-id=0%3A1
+```
