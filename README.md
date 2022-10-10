@@ -3,7 +3,7 @@ Maxnfts is marketplace for nfts you can buy nft from collection of 4000+ nfts an
 
 ## Clone the project 
 ``` 
-git clone https://github.com/Kartikey353/Maxnfts.git
+git clone https://github.com//MaxNftapp.git
 ``` 
 ``` 
 cd Maxnft
