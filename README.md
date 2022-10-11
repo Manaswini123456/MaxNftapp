@@ -7,7 +7,7 @@ Maxnfts is marketplace for nfts you can buy nft from collection of 4000+ nfts an
 
 ## Clone the project 
 ``` 
-git clone https://github.com//MaxNftapp.git
+git clone https://github.com/<username>/MaxNftapp.git
 ``` 
 ``` 
 cd Maxnft
@@ -32,6 +32,9 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+![image](https://user-images.githubusercontent.com/91537487/195013679-75cdb08c-5211-4fe9-b71b-049b8680d2e2.png)
+
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
