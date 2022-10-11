@@ -1,4 +1,4 @@
-#NFTs
+# NFTs
 A non-fungible token is a unique digital identifier that cannot be copied, substituted, or subdivided, that is recorded in a blockchain, and that is used to certify authenticity and ownership.
 
 ![image](https://user-images.githubusercontent.com/91537487/195003944-8b873438-c71f-458b-b411-81339b686ca7.png)
