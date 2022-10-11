@@ -1,8 +1,7 @@
-# NFTs
+#NFTs
 A non-fungible token is a unique digital identifier that cannot be copied, substituted, or subdivided, that is recorded in a blockchain, and that is used to certify authenticity and ownership.
 
 ![image](https://user-images.githubusercontent.com/91537487/195003944-8b873438-c71f-458b-b411-81339b686ca7.png)
-
 # Maxnfts  
 Maxnfts is marketplace for nfts you can buy nft from collection of 4000+ nfts and 35K+ artists collections. The place is also suitable for build you own creation with nft and sell them on good resonable price. Max nfts is always dedicated to provide best sutiable price with all others parameters.
 
